@@ -1,6 +1,6 @@
 ## Chapter 1: Reality
 
-### Introduction
+#### Introduction
 
 I want to begin this manuscript of life that I intend to write with a discussion about God and the devil.
 As a measly introduction, the story goes that God is the creator of the universe, who weaved into its fabric the laws by which everything within it must abide.
@@ -11,7 +11,7 @@ When we look around us, however, we see that everything is, in fact, not so good
 We see good things being destroyed, and we consider it evil.
 Keep reading to reconcile with the contradictory nature of existence.
 
-### Physical reality
+#### Physical reality
 
 God defines the building blocks of reality.
 Based on the properties he assigns them, laws arise that determine how the building blocks interact and how they can organize themselves into ordered states.
@@ -34,7 +34,7 @@ As these new building blocks form new ordered states, which in turn become anoth
 The laws governing each layer depend on the properties of its building blocks, which are defined by the state of the previous layer.
 Each layer thus refers to the layer below it as its God.
 
-### Virtual reality
+#### Virtual reality
 
 As we currently understand the universe, its most basic building blocks are subatomic particles governed by the laws of particle physics.
 The subatomic particles form atoms, which form molecules, which miraculously have gone on to form cells.
@@ -63,7 +63,7 @@ Upon receiving enough such signals, it becomes activated, meaning that it sends 
 With activated neurons as virtual building blocks, the organism constructs a representation of its environment, which it responds to with a series of coordinated muscle contractions.
 The connections between neurons can change in response to experience, enabling us to adapt our responses to the environment we are in.
 
-### Ideas
+#### Ideas
 
 The collected connections of a single neuron is what we call an idea.
 Together, the ideas in our brains form a model of the world, which we can call our mind or soul.
@@ -83,7 +83,7 @@ Its greatest wish is to survive its host, be passed on from generation to genera
 To succeed in that endeavor, the idea has to encode the laws of reality more accurately than its competitors.
 While a parasitic idea that short-circuits the brain’s reinforcement mechanisms may gain traction in a population, it will eventually be outcompeted by an idea that shows the world as it is, even if the only way it can go down is by taking its host down with it.
 
-### How to befriend the devil
+#### How to befriend the devil
 
 When we die, our ideas can live on in the people we have influenced.
 If they find any of them worth keeping, they will reassemble them into something that is not quite us but in which we would nonetheless recognize ourselves.
