@@ -1,8 +1,10 @@
-Chapter 3: Consciousness
-Input and output
+## Chapter 3: Consciousness
+
+#### Input and output
+
 Consciousness is the translation of the data registered by our senses, which we can call sensory input, into coordinated muscle contractions, which we can call motor output.
 
-
+![Sensory input and motor output](inputAndOutput.jpg)
 
 Evaluation and estimation
 Some sensory input constitutes relevant information in its raw form, while other input has to be constructed into objects or situations to warrant a response. Some information comes predefined as good or bad, while some of it becomes good or bad by association. We evaluate our current state by adding the goodness and subtracting the badness of everything we perceive. We then estimate, based on previous experience, how we could manipulate our environment to improve our state. We continue to evaluate each estimation and choose the response estimated to produce the biggest improvement. When we act, we receive new sensory input, which serves as feedback on the choice we made.
