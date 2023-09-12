@@ -19,18 +19,46 @@ When we act, we receive new sensory input, which serves as feedback on the choic
 
 #### The neuron
 
-We can improve our thinking of thinking by thinking about the actual neurons in the brain that accomplish it. A neuron is a cell consisting of a cell body that receives electrical signals from other neurons and an axon through which it sends them. A neuron only sends its signal once the sum of the signals it receives exceeds a certain threshold value, at which point we say it has become activated. An activated neuron contributes to the activation of other neurons, which in turn contribute to the activation of other ones. Every time a neuron is activated, it has a refractory period before it can become activated again, which defines its maximum frequency of activation. How much a neuron’s frequency of activation is affected by the different neurons it receives signals from is proportional to how frequently they send them and how strongly it is connected to them.
-The nervous system
-In our eyes, ears, skins, noses, and mouths, we have specialized sensory neurons activated by light, pressure, temperature, or the presence of specific molecules. When activated, these neurons send their signals through our spinal cords or cranial nerves to neurons in the temporal, occipital, and parietal lobes of our brains, which assemble the sensory input into objects located in space and time. In our frontal lobes, the objects are assembled into situations, such as the motion of an object at a certain speed in a certain direction. From each situation, the frontal lobes deduce a goal, such as catching an approaching ball, which they then formulate a response to attain. The instructions are received by our motor neurons, which project their axons through the spinal cord to muscle fibers in the body or through cranial nerves to muscle fibers in the face. When activated, the muscle fibers contract, making us move to accomplish the set goal.
+We can improve our thinking of thinking by thinking about the actual neurons in the brain that accomplish it.
+A neuron is a cell consisting of a cell body that receives electrical signals from other neurons and an axon through which it sends them.
+A neuron only sends its signal once the sum of the signals it receives exceeds a certain threshold value, at which point we say it has become activated.
+An activated neuron contributes to the activation of other neurons, which in turn contribute to the activation of other ones.
+Every time a neuron is activated, it has a refractory period before it can become activated again, which defines its maximum frequency of activation.
+How much a neuron’s frequency of activation is affected by the different neurons it receives signals from is proportional to how frequently they send them and how strongly it is connected to them.
 
+#### The nervous system
 
-How the neurons may be organized
-We can explain many of the nervous system’s functions by postulating that the neurons are organized into layers, where each neuron in a higher layer is connected to a specific combination of neurons in the layer below it and all adjacent layers relate to each other in the same way. Further, the nervous system could be divided into a sensory stack, which constructs stimuli by transmitting signals from lower layers to higher ones, and a motor stack, which constructs responses by transmitting signals in the opposite direction, from higher layers that outline the response to lower ones that fill in the details with increasing precision. The sensory stack and the motor stack may in turn be divided into sub-stacks, which would allow information from the different senses to be processed in parallel and different muscle groups to be activated independently. For simplicity, we can call all the neurons in the sensory stack sensory neurons and all the neurons in the motor stack motor neurons from now on.
+In our eyes, ears, skins, noses, and mouths, we have specialized sensory neurons activated by light, pressure, temperature, or the presence of specific molecules.
+When activated, these neurons send their signals through our spinal cords or cranial nerves to neurons in the temporal, occipital, and parietal lobes of our brains, which assemble the sensory input into objects located in space and time.
+In our frontal lobes, the objects are assembled into situations, such as the motion of an object at a certain speed in a certain direction.
+From each situation, the frontal lobes deduce a goal, such as catching an approaching ball, which they then formulate a response to attain.
+The instructions are received by our motor neurons, which project their axons through the spinal cord to muscle fibers in the body or through cranial nerves to muscle fibers in the face.
+When activated, the muscle fibers contract, making us move to accomplish the set goal.
 
+![The nervous system](nervousSystem.jpg)
 
-How the information may be processed
-Let us examine what each layer would do as we respond to a stimulus, taking the act of seeing and grabbing a cup of coffee as our example. When light reflected off the steaming cup reaches our eyes, first-layer sensory neurons in the retina register individual dots of light without considering how these dots are related to each other. They pass their information on to second-layer sensory neurons in the area of the brain that processes visual data, which take the dots and string them together into lines. Third-layer sensory neurons then use these lines to build shapes, which fourth-layer sensory neurons use to build objects and determine their location. Fifth-layer sensory neurons, which receive information about multiple objects, represent relations between different objects at different locations or between the same object at different locations at different points in time. It is a fourth-layer sensory neuron that identifies the cup of coffee and a fifth-layer sensory neuron that realizes we are in a position to grab it and go for a sip. A fifth-layer motor neuron then begins to coordinate the grab and the sip. A fourth-layer motor neuron coordinates the reaching movement of the arm with the grabbing movement of the hand. Third-layer motor neurons coordinate the flexion of the different joints within the arm and the hand. Second-layer motor neurons coordinate the activation of the different muscle fibers to flex each joint the appropriate amount and first-layer motor neurons activate the muscle fibers to make the movements happen (Wikipedia: Model of hierarchical complexity).
-From stimulus to response
+#### How the neurons may be organized
+
+We can explain many of the nervous system’s functions by postulating that the neurons are organized into layers, where each neuron in a higher layer is connected to a specific combination of neurons in the layer below it and all adjacent layers relate to each other in the same way.
+Further, the nervous system could be divided into a sensory stack, which constructs stimuli by transmitting signals from lower layers to higher ones, and a motor stack, which constructs responses by transmitting signals in the opposite direction, from higher layers that outline the response to lower ones that fill in the details with increasing precision.
+The sensory stack and the motor stack may in turn be divided into sub-stacks, which would allow information from the different senses to be processed in parallel and different muscle groups to be activated independently.
+For simplicity, we can call all the neurons in the sensory stack sensory neurons and all the neurons in the motor stack motor neurons from now on.
+
+#### How the information may be processed
+
+Let us examine what each layer would do as we respond to a stimulus, taking the act of seeing and grabbing a cup of coffee as our example.
+When light reflected off the steaming cup reaches our eyes, first-layer sensory neurons in the retina register individual dots of light without considering how these dots are related to each other.
+They pass their information on to second-layer sensory neurons in the area of the brain that processes visual data, which take the dots and string them together into lines.
+Third-layer sensory neurons then use these lines to build shapes, which fourth-layer sensory neurons use to build objects and determine their location.
+Fifth-layer sensory neurons, which receive information about multiple objects, represent relations between different objects at different locations or between the same object at different locations at different points in time.
+It is a fourth-layer sensory neuron that identifies the cup of coffee and a fifth-layer sensory neuron that realizes we are in a position to grab it and go for a sip.
+A fifth-layer motor neuron then begins to coordinate the grab and the sip.
+A fourth-layer motor neuron coordinates the reaching movement of the arm with the grabbing movement of the hand.
+Third-layer motor neurons coordinate the flexion of the different joints within the arm and the hand.
+Second-layer motor neurons coordinate the activation of the different muscle fibers to flex each joint the appropriate amount and first-layer motor neurons activate the muscle fibers to make the movements happen (Wikipedia: Model of hierarchical complexity).
+
+#### From stimulus to response
+
 Based on our coffee-sipping example, we might conclude that the connections between the sensory stack and the motor stack must be between the sensory neurons that gather the whole picture of each situation and the motor neurons that initiate the responses to them. Already when light hits the retina, however, we can squint and constrict our pupils if the light is too bright, and we can have an emotional response to an object even before we have put it into context. Going even further, us sitting there with our cups might not even be the whole picture of the situation because what about the other people sitting around the table with their cups and what they are thinking about us when we are thinking about taking a sip? We must accept that there might not be anything such as a whole picture. Instead, we can think of all sensory neurons as representing stimuli belonging to different layers and conclude that we can respond to the stimuli of any layer. Finally, since every stimulus is composed of stimuli belonging to the layer below it, the response to any stimulus should coordinate responses aimed at that stimulus' components. Every sensory neuron must thus be connected to a motor neuron in the same layer.
 
 The picture below aims to illustrate all we just went through. Some of the details, however, have not yet been explained. Why are some of the sensory neurons colored pink? What are the arrows connecting neurons within the same layer? And why are there, in addition to the arrows from the sensory stack to the motor stack, arrows going back to the sensory stack?
