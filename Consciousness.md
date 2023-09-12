@@ -44,6 +44,8 @@ Further, the nervous system could be divided into a sensory stack, which constru
 The sensory stack and the motor stack may in turn be divided into sub-stacks, which would allow information from the different senses to be processed in parallel and different muscle groups to be activated independently.
 For simplicity, we can call all the neurons in the sensory stack sensory neurons and all the neurons in the motor stack motor neurons from now on.
 
+![Neuronal organization](neuronalOrganization.jpg)
+
 #### How the information may be processed
 
 Let us examine what each layer would do as we respond to a stimulus, taking the act of seeing and grabbing a cup of coffee as our example.
