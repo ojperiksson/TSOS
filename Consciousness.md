@@ -4,14 +4,21 @@
 
 Consciousness is the translation of the data registered by our senses, which we can call sensory input, into coordinated muscle contractions, which we can call motor output.
 
-![Sensory input and motor output](inputAndOutput.jpg)
+![Sensory input and motor output](inputOutput.jpg)
 
-Evaluation and estimation
-Some sensory input constitutes relevant information in its raw form, while other input has to be constructed into objects or situations to warrant a response. Some information comes predefined as good or bad, while some of it becomes good or bad by association. We evaluate our current state by adding the goodness and subtracting the badness of everything we perceive. We then estimate, based on previous experience, how we could manipulate our environment to improve our state. We continue to evaluate each estimation and choose the response estimated to produce the biggest improvement. When we act, we receive new sensory input, which serves as feedback on the choice we made.
+#### Evaluation and estimation
 
+Some sensory input constitutes relevant information in its raw form, while other input has to be constructed into objects or situations to warrant a response.
+Some information comes predefined as good or bad, while some of it becomes good or bad by association.
+We evaluate our current state by adding the goodness and subtracting the badness of everything we perceive.
+We then estimate, based on previous experience, how we could manipulate our environment to improve our state.
+We continue to evaluate each estimation and choose the response estimated to produce the biggest improvement.
+When we act, we receive new sensory input, which serves as feedback on the choice we made.
 
+![Evaluation and estimation](evaluationEstimation.jpg)
 
-The neuron
+#### The neuron
+
 We can improve our thinking of thinking by thinking about the actual neurons in the brain that accomplish it. A neuron is a cell consisting of a cell body that receives electrical signals from other neurons and an axon through which it sends them. A neuron only sends its signal once the sum of the signals it receives exceeds a certain threshold value, at which point we say it has become activated. An activated neuron contributes to the activation of other neurons, which in turn contribute to the activation of other ones. Every time a neuron is activated, it has a refractory period before it can become activated again, which defines its maximum frequency of activation. How much a neuron’s frequency of activation is affected by the different neurons it receives signals from is proportional to how frequently they send them and how strongly it is connected to them.
 The nervous system
 In our eyes, ears, skins, noses, and mouths, we have specialized sensory neurons activated by light, pressure, temperature, or the presence of specific molecules. When activated, these neurons send their signals through our spinal cords or cranial nerves to neurons in the temporal, occipital, and parietal lobes of our brains, which assemble the sensory input into objects located in space and time. In our frontal lobes, the objects are assembled into situations, such as the motion of an object at a certain speed in a certain direction. From each situation, the frontal lobes deduce a goal, such as catching an approaching ball, which they then formulate a response to attain. The instructions are received by our motor neurons, which project their axons through the spinal cord to muscle fibers in the body or through cranial nerves to muscle fibers in the face. When activated, the muscle fibers contract, making us move to accomplish the set goal.
